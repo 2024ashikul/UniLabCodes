@@ -1,0 +1,15 @@
+/Users/macbook/Documents/UniLabCodes/FirstApp/obj/Debug/net9.0/FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Documents/UniLabCodes/FirstApp/obj/Debug/net9.0/FirstApp.AssemblyInfoInputs.cache
+/Users/macbook/Documents/UniLabCodes/FirstApp/obj/Debug/net9.0/FirstApp.AssemblyInfo.cs
+/Users/macbook/Documents/UniLabCodes/FirstApp/obj/Debug/net9.0/FirstApp.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/UniLabCodes/FirstApp/obj/Debug/net9.0/FirstApp.sourcelink.json
+/Users/macbook/Documents/UniLabCodes/FirstApp/bin/Debug/net9.0/FirstApp
+/Users/macbook/Documents/UniLabCodes/FirstApp/bin/Debug/net9.0/FirstApp.deps.json
+/Users/macbook/Documents/UniLabCodes/FirstApp/bin/Debug/net9.0/FirstApp.runtimeconfig.json
+/Users/macbook/Documents/UniLabCodes/FirstApp/bin/Debug/net9.0/FirstApp.dll
+/Users/macbook/Documents/UniLabCodes/FirstApp/bin/Debug/net9.0/FirstApp.pdb
+/Users/macbook/Documents/UniLabCodes/FirstApp/obj/Debug/net9.0/FirstApp.dll
+/Users/macbook/Documents/UniLabCodes/FirstApp/obj/Debug/net9.0/refint/FirstApp.dll
+/Users/macbook/Documents/UniLabCodes/FirstApp/obj/Debug/net9.0/FirstApp.pdb
+/Users/macbook/Documents/UniLabCodes/FirstApp/obj/Debug/net9.0/FirstApp.genruntimeconfig.cache
+/Users/macbook/Documents/UniLabCodes/FirstApp/obj/Debug/net9.0/ref/FirstApp.dll

@@ -1,0 +1,11 @@
+# number of players
+3 3 3
+Lionel 3 2 1
+Ronaldo 2 1 1
+Embappe 2 4 5
+Becker 1 1 1
+Martinez 2 3 1
+Aminul 3 4 2
+Herd 2 1 5
+Atif 2 6 7 
+Hamed 1 1 0
