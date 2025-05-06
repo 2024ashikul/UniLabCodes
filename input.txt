@@ -1,4 +1,3 @@
-# number of players
 3 3 3
 Lionel 3 2 1
 Ronaldo 2 1 1

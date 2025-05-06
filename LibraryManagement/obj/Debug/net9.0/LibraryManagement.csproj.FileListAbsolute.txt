@@ -1,0 +1,15 @@
+/Users/macbook/Documents/UniLabCodes/LibraryManagement/obj/Debug/net9.0/LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Documents/UniLabCodes/LibraryManagement/obj/Debug/net9.0/LibraryManagement.AssemblyInfoInputs.cache
+/Users/macbook/Documents/UniLabCodes/LibraryManagement/obj/Debug/net9.0/LibraryManagement.AssemblyInfo.cs
+/Users/macbook/Documents/UniLabCodes/LibraryManagement/obj/Debug/net9.0/LibraryManagement.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/UniLabCodes/LibraryManagement/obj/Debug/net9.0/LibraryManagement.sourcelink.json
+/Users/macbook/Documents/UniLabCodes/LibraryManagement/bin/Debug/net9.0/LibraryManagement
+/Users/macbook/Documents/UniLabCodes/LibraryManagement/bin/Debug/net9.0/LibraryManagement.deps.json
+/Users/macbook/Documents/UniLabCodes/LibraryManagement/bin/Debug/net9.0/LibraryManagement.runtimeconfig.json
+/Users/macbook/Documents/UniLabCodes/LibraryManagement/bin/Debug/net9.0/LibraryManagement.dll
+/Users/macbook/Documents/UniLabCodes/LibraryManagement/bin/Debug/net9.0/LibraryManagement.pdb
+/Users/macbook/Documents/UniLabCodes/LibraryManagement/obj/Debug/net9.0/LibraryManagement.dll
+/Users/macbook/Documents/UniLabCodes/LibraryManagement/obj/Debug/net9.0/refint/LibraryManagement.dll
+/Users/macbook/Documents/UniLabCodes/LibraryManagement/obj/Debug/net9.0/LibraryManagement.pdb
+/Users/macbook/Documents/UniLabCodes/LibraryManagement/obj/Debug/net9.0/LibraryManagement.genruntimeconfig.cache
+/Users/macbook/Documents/UniLabCodes/LibraryManagement/obj/Debug/net9.0/ref/LibraryManagement.dll

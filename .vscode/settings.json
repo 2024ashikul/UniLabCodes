@@ -5,6 +5,8 @@
         "vector": "cpp",
         "iostream": "cpp",
         "ios": "cpp",
-        "istream": "cpp"
+        "istream": "cpp",
+        "algorithm": "cpp",
+        "__locale": "c"
     }
 }

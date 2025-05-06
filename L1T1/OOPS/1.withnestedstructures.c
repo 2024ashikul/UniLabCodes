@@ -55,7 +55,7 @@ int main(){
         printf("3. Add a cube\n");
         printf("4. List Items\n");
         printf("5. Get Statistics\n");
-        printf("6. Exit\n");
+        printf("6. Exit\n\n");
         int a;
         scanf("%d",&a);
         switch (a)
@@ -66,7 +66,7 @@ int main(){
             arr[id-1]=1;
             float temp = shape[id-1].cir.diameter ;
             shape[id-1].cir.id = id;
-            printf("Succesfully Added\n");
+            printf("\nSuccesfully Added\n");
             totalarea+= 3.14*temp*temp;
             TotalShapes++;
             circles++;
@@ -81,7 +81,7 @@ int main(){
             scanf("%f" ,&shape[id-1].rec.height);
             printf("Rectangle Width :");
             scanf("%f" ,&shape[id-1].rec.width);
-            printf("Succesfully Added\n");
+            printf("\nSuccesfully Added\n");
             arr[id-1]=2;
             totalarea+= shape[id-1].rec.height*shape[id-1].rec.width;
             totalarearect+=shape[id-1].rec.height*shape[id-1].rec.width;
@@ -99,7 +99,7 @@ int main(){
             scanf("%f" ,&shape[id-1].cube.width);
             printf("Cube Breadth :");
             scanf("%f" ,&shape[id-1].cube.breadth);
-            printf("Succesfully Added\n");
+            printf("\nSuccesfully Added\n");
             arr[id-1]=3;
             totalarea+= shape[id-1].cube.height*shape[id-1].cube.width*shape[id-1].cube.breadth;
             totalareacubes+= shape[id-1].cube.height*shape[id-1].cube.width*shape[id-1].cube.breadth;
@@ -118,12 +118,12 @@ int main(){
             {
                 if (arr[i] == 1)
                 {
-                    printf("%d          Cicle                   %.2f\n",shape[i].cir.id,shape[i].cir.diameter);
+                    printf("%-10d %-20s %5.2f\n",shape[i].cir.id,"Circle",shape[i].cir.diameter);
                 }else if(arr[i]==2){
-                    printf("%d          Rectangle               %.2f X %.2f\n",shape[i].rec.id,shape[i].rec.height,shape[i].rec.width);
+                    printf("%-10d %-20s %5.2f X %5.2f\n",shape[i].rec.id,"Rectangle",shape[i].rec.height,shape[i].rec.width);
                 }
                 else if(arr[i]==3){
-                    printf("%d          Cube                    %.2f X %.2f X %.2f \n",shape[i].cube.id,shape[i].cube.height,shape[i].cube.width,shape[i].cube.breadth);
+                    printf("%-10d %-20s %5.2f X %5.2f X %5.2f \n",shape[i].cube.id,"Cube",shape[i].cube.height,shape[i].cube.width,shape[i].cube.breadth);
                 }else{
                     break;
                 }
@@ -151,6 +151,7 @@ int main(){
         
         case 6:
             test =0;
+            printf("Exited the program\n");
             break;
         }
     }

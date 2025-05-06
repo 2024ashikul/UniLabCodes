@@ -37,7 +37,7 @@ int main(){
         printf("3. Add a cube\n");
         printf("4. List Items\n");
         printf("5. Get Statistics\n");
-        printf("6. Exit\n");
+        printf("6. Exit\n\n");
         int a;
         scanf("%d",&a);
 
@@ -53,7 +53,7 @@ int main(){
             float temp = shape[id-1].diameter ;
             shape[id-1].id = id;
             
-            printf("Succesfully Added\n");
+            printf("\nSuccesfully Added\n");
             totalarea+= 3.14*temp*temp;
             TotalShapes++;
             circles++;
@@ -68,7 +68,7 @@ int main(){
             scanf("%f" ,&shape[id-1].height);
             printf("Rectangle Width :");
             scanf("%f" ,&shape[id-1].width);
-            printf("Succesfully Added\n");
+            printf("\nSuccesfully Added\n");
             arr[id-1]=2;
             totalarea+= shape[id-1].height*shape[id-1].width;
             totalarearect+=shape[id-1].height*shape[id-1].width;
@@ -86,7 +86,7 @@ int main(){
             scanf("%f" ,&shape[id-1].width);
             printf("Cube Breadth :");
             scanf("%f" ,&shape[id-1].breadth);
-            printf("Succesfully Added\n");
+            printf("\nSuccesfully Added\n");
             arr[id-1]=3;
             totalarea+= shape[id-1].height*shape[id-1].width*shape[id-1].breadth;
             totalareacubes+= shape[id-1].height*shape[id-1].width*shape[id-1].breadth;
@@ -105,12 +105,12 @@ int main(){
             {
                 if (arr[i] == 1)
                 {
-                    printf("%d          Cicle                   %.2f\n",shape[i].id,shape[i].diameter);
+                    printf("%-10d %-20s %5.2f\n",shape[i].id,"Circle",shape[i].diameter);
                 }else if(arr[i]==2){
-                    printf("%d          Rectangle               %.2f X %.2f\n",shape[i].id,shape[i].height,shape[i].width);
+                    printf("%-10d %-20s %5.2f X %5.2f\n",shape[i].id,"Rectangle",shape[i].height,shape[i].width);
                 }
                 else if(arr[i]==3){
-                    printf("%d          Cube                    %.2f X %.2f X %.2f \n",shape[i].id,shape[i].height,shape[i].width,shape[i].breadth);
+                    printf("%-10d %-20s %5.2f X %5.2f X %5.2f \n",shape[i].id,"Cube",shape[i].height,shape[i].width,shape[i].breadth);
                 }else{
                     break;
                 }

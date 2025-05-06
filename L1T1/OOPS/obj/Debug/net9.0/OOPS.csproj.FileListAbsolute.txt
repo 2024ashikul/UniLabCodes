@@ -1,0 +1,5 @@
+/Users/macbook/Documents/UniLabCodes/L1T1/OOPS/obj/Debug/net9.0/OOPS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Documents/UniLabCodes/L1T1/OOPS/obj/Debug/net9.0/OOPS.AssemblyInfoInputs.cache
+/Users/macbook/Documents/UniLabCodes/L1T1/OOPS/obj/Debug/net9.0/OOPS.AssemblyInfo.cs
+/Users/macbook/Documents/UniLabCodes/L1T1/OOPS/obj/Debug/net9.0/OOPS.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/UniLabCodes/L1T1/OOPS/obj/Debug/net9.0/OOPS.sourcelink.json

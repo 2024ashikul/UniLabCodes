@@ -2,6 +2,7 @@
 #include <algorithm>
 #include<string>
 #include<fstream>
+#include <iomanip>
 using namespace std;
 
 ofstream File("output.txt");
@@ -27,7 +28,7 @@ struct Goalkeeper
 struct Referee
 {
     string name;
-    int wrong_decisions_per_match[3];
+    int wrong_decisions_per_match[3]; 
     int total_wrong_decisions;
     int rank;
 };
@@ -42,6 +43,7 @@ bool compareGoalkeepers(const Goalkeeper& a,const Goalkeeper& b){
 bool compareReferees(const Referee& a,const Referee& b){
     return a.total_wrong_decisions > b.total_wrong_decisions;
 }
+
 
 
 
@@ -115,16 +117,16 @@ int main(){
     //Printing Forward Details
     File << "==============================\n";
     File << "Forward Rankings : \n";
-    File << "Rank       |  Name             | Match 1       | Match 2       | Match 3       | Total Goals \n" << endl;
+    File << "Rank   |  Name             | Match 1       | Match 2       | Match 3       | Total Goals \n" << endl;
     for (int i = 0; i < number_of_forwards; i++)
     {
-    File << i+1 << "    |  " << forwards[i].name << " |     " << forwards[i].goals_per_match[0] << " |      " << forwards[i].goals_per_match[1] << " |      " << forwards[i].goals_per_match[2] << " |      " << forwards[i].total_goals << endl;
+    File << setw(10) << i+1 << setw(10) << forwards[i].name << setw(10) << forwards[i].goals_per_match[0] << setw(10) << forwards[i].goals_per_match[1] << setw(10) << forwards[i].goals_per_match[2] << setw(10) << forwards[i].total_goals << endl;
     }
     
 
     File << "==============================\n";
     File << "Goalkeeper Rankings : \n";
-    File << "Rank       |  Name             | Match 1       | Match 2       | Match 3       | Total Saves \n" << endl;
+    File << "Rank   |  Name             | Match 1       | Match 2       | Match 3       | Total Saves \n" << endl;
     for (int i = 0; i < number_of_goalkeepers; i++)
     {
     File << i+1 << " |      " << goalkeepers[i].name << " |     " << goalkeepers[i].saves_per_match[0] << " |   " << goalkeepers[i].saves_per_match[1] << " |       " << goalkeepers[i].saves_per_match[2] << " |       " << goalkeepers[i].total_saves << endl;
@@ -133,11 +135,17 @@ int main(){
 
     File << "==============================\n";
     File << "Referee Rankings : \n";
-    File << "Rank       |  Name             | Match 1       | Match 2       | Match 3       | Total Wrong Decisions \n" << endl;
+    File << "Rank   |  Name             | Match 1       | Match 2       | Match 3       | Total Wrong Decisions \n" << endl;
     for (int i = 0; i < number_of_referees; i++)
     {
     File << i+1 << " |      " << referees[i].name << " |     " << referees[i].wrong_decisions_per_match[0] << " |        " << referees[i].wrong_decisions_per_match[1] << " |       " << referees[i].wrong_decisions_per_match[2] << " |        " << referees[i].total_wrong_decisions << endl;
     }
     
+
+
+    //Determinig the Best Perfomance of the TOURNAMENT
+    int forwardFactor ;
+    int goalkeeperFactor ;
+    int refereeFactor ;
 
 }
