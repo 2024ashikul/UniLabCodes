@@ -1,0 +1,15 @@
+/Users/macbook/Documents/UniLabCodes/University Course Management System/obj/Debug/net9.0/University Course Management System.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Documents/UniLabCodes/University Course Management System/obj/Debug/net9.0/University Course Management System.AssemblyInfoInputs.cache
+/Users/macbook/Documents/UniLabCodes/University Course Management System/obj/Debug/net9.0/University Course Management System.AssemblyInfo.cs
+/Users/macbook/Documents/UniLabCodes/University Course Management System/obj/Debug/net9.0/University Course Management System.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/UniLabCodes/University Course Management System/obj/Debug/net9.0/University Course Management System.sourcelink.json
+/Users/macbook/Documents/UniLabCodes/University Course Management System/bin/Debug/net9.0/University Course Management System
+/Users/macbook/Documents/UniLabCodes/University Course Management System/bin/Debug/net9.0/University Course Management System.deps.json
+/Users/macbook/Documents/UniLabCodes/University Course Management System/bin/Debug/net9.0/University Course Management System.runtimeconfig.json
+/Users/macbook/Documents/UniLabCodes/University Course Management System/bin/Debug/net9.0/University Course Management System.dll
+/Users/macbook/Documents/UniLabCodes/University Course Management System/bin/Debug/net9.0/University Course Management System.pdb
+/Users/macbook/Documents/UniLabCodes/University Course Management System/obj/Debug/net9.0/University Course Management System.dll
+/Users/macbook/Documents/UniLabCodes/University Course Management System/obj/Debug/net9.0/refint/University Course Management System.dll
+/Users/macbook/Documents/UniLabCodes/University Course Management System/obj/Debug/net9.0/University Course Management System.pdb
+/Users/macbook/Documents/UniLabCodes/University Course Management System/obj/Debug/net9.0/University Course Management System.genruntimeconfig.cache
+/Users/macbook/Documents/UniLabCodes/University Course Management System/obj/Debug/net9.0/ref/University Course Management System.dll
