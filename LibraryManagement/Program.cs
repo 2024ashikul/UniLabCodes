@@ -1,21 +1,35 @@
 using System;
 
 class Book{
-    public string bookID,title,author;
-    public bool isAvailable;
-    public Book(string a,string b,string c,bool d){
-        bookID = a;
-        title = b;
-        author = c;
-        isAvailable = d;
+    private string bookID,title,author;
+    private bool isAvailable;
+    public Book(string bookID,string title,string author,bool isAvailable){
+        this.bookID = bookID;
+        this.title = title;
+        this.author = author;
+        this.isAvailable = isAvailable;
     }
+        public string BookId{
+            get {return bookID;}
+            set {bookID = value;}
+        }
+        public string Title{
+            get {return title;}
+            set {title = value;}
+        }
+        public string Author{
+            get {return author;}
+            set {author = value;}
+        }
+        public bool IsAvailable{
+            get {return isAvailable;}
+            set {isAvailable = value;}
+        }
+    
 }
 
 class Program{
-    static void Main(){
-            
-
-            
+    static void Main(){  
             int n;
             Console.WriteLine("Please insert the number of the Book to manage");
             n=int.Parse(Console.ReadLine());
@@ -26,14 +40,14 @@ class Program{
             }
             Book[] books = new Book[n];
             for(int i=0;i < n;i++){
-                Console.WriteLine($"Enter the details on Book no{i+1}");
-                Console.Write("Book ID");
+                Console.WriteLine($"Enter the details on Book no {i+1}  ");
+                Console.Write("Book ID   : ");
                 string a=Console.ReadLine();
-                Console.Write("Title:");
+                Console.Write("Title    : ");
                 string b=Console.ReadLine();
-                Console.Write("Author:");
+                Console.Write("Author   : ");
                 string c=Console.ReadLine();
-                Console.Write("Is the book available?(yes/no)");
+                Console.Write("Is the book available?(yes/no) : ");
                 bool d;
                 string s = Console.ReadLine();
                 if(s=="yes"){
@@ -48,9 +62,9 @@ class Program{
 
             int count = 0;
             for(int i=0;i<n;i++){
-                if(books[i].isAvailable == true){
+                if(books[i].IsAvailable == true){
                     if(count == 0){Console.WriteLine("Available books:");}
-                    Console.WriteLine($"Book ID : {books[i].bookID}, Title : {books[i].title} , Author : {books[i].author}");
+                    Console.WriteLine($"Book ID : {books[i].BookId}, Title : {books[i].Title} , Author : {books[i].Author}");
                     count++;
                 }
             }
