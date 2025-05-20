@@ -147,8 +147,7 @@ int main(){
     
 
 
-    //Determinig the Best Perfomance of the TOURNAMENT
-    void BestPerfomer(forwards,goalkeepers,referees);
+    
 
 
 }
