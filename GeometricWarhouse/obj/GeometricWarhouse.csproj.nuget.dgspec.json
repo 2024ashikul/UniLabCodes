@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/macbook/Documents/UniLabCodes/L1T1/OOPS/Warhouse/Warhouse.csproj": {}
+    "/Users/macbook/Documents/UniLabCodes/GeometricWarhouse/GeometricWarhouse.csproj": {}
   },
   "projects": {
-    "/Users/macbook/Documents/UniLabCodes/L1T1/OOPS/Warhouse/Warhouse.csproj": {
+    "/Users/macbook/Documents/UniLabCodes/GeometricWarhouse/GeometricWarhouse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macbook/Documents/UniLabCodes/L1T1/OOPS/Warhouse/Warhouse.csproj",
-        "projectName": "Warhouse",
-        "projectPath": "/Users/macbook/Documents/UniLabCodes/L1T1/OOPS/Warhouse/Warhouse.csproj",
+        "projectUniqueName": "/Users/macbook/Documents/UniLabCodes/GeometricWarhouse/GeometricWarhouse.csproj",
+        "projectName": "GeometricWarhouse",
+        "projectPath": "/Users/macbook/Documents/UniLabCodes/GeometricWarhouse/GeometricWarhouse.csproj",
         "packagesPath": "/Users/macbook/.nuget/packages/",
-        "outputPath": "/Users/macbook/Documents/UniLabCodes/L1T1/OOPS/Warhouse/obj/",
+        "outputPath": "/Users/macbook/Documents/UniLabCodes/GeometricWarhouse/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/macbook/.nuget/NuGet/NuGet.Config"

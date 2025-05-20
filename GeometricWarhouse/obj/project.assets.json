@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/macbook/Documents/UniLabCodes/L1T1/OOPS/OOPS.csproj",
-      "projectName": "OOPS",
-      "projectPath": "/Users/macbook/Documents/UniLabCodes/L1T1/OOPS/OOPS.csproj",
+      "projectUniqueName": "/Users/macbook/Documents/UniLabCodes/GeometricWarhouse/GeometricWarhouse.csproj",
+      "projectName": "GeometricWarhouse",
+      "projectPath": "/Users/macbook/Documents/UniLabCodes/GeometricWarhouse/GeometricWarhouse.csproj",
       "packagesPath": "/Users/macbook/.nuget/packages/",
-      "outputPath": "/Users/macbook/Documents/UniLabCodes/L1T1/OOPS/obj/",
+      "outputPath": "/Users/macbook/Documents/UniLabCodes/GeometricWarhouse/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/macbook/.nuget/NuGet/NuGet.Config"
