@@ -1,0 +1,15 @@
+/Users/macbook/Documents/UniLabCodes/Online Shopping/obj/Debug/net9.0/Online Shopping.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Documents/UniLabCodes/Online Shopping/obj/Debug/net9.0/Online Shopping.AssemblyInfoInputs.cache
+/Users/macbook/Documents/UniLabCodes/Online Shopping/obj/Debug/net9.0/Online Shopping.AssemblyInfo.cs
+/Users/macbook/Documents/UniLabCodes/Online Shopping/obj/Debug/net9.0/Online Shopping.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/UniLabCodes/Online Shopping/obj/Debug/net9.0/Online Shopping.sourcelink.json
+/Users/macbook/Documents/UniLabCodes/Online Shopping/bin/Debug/net9.0/Online Shopping
+/Users/macbook/Documents/UniLabCodes/Online Shopping/bin/Debug/net9.0/Online Shopping.deps.json
+/Users/macbook/Documents/UniLabCodes/Online Shopping/bin/Debug/net9.0/Online Shopping.runtimeconfig.json
+/Users/macbook/Documents/UniLabCodes/Online Shopping/bin/Debug/net9.0/Online Shopping.dll
+/Users/macbook/Documents/UniLabCodes/Online Shopping/bin/Debug/net9.0/Online Shopping.pdb
+/Users/macbook/Documents/UniLabCodes/Online Shopping/obj/Debug/net9.0/Online Shopping.dll
+/Users/macbook/Documents/UniLabCodes/Online Shopping/obj/Debug/net9.0/refint/Online Shopping.dll
+/Users/macbook/Documents/UniLabCodes/Online Shopping/obj/Debug/net9.0/Online Shopping.pdb
+/Users/macbook/Documents/UniLabCodes/Online Shopping/obj/Debug/net9.0/Online Shopping.genruntimeconfig.cache
+/Users/macbook/Documents/UniLabCodes/Online Shopping/obj/Debug/net9.0/ref/Online Shopping.dll
