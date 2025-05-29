@@ -1,0 +1,15 @@
+/Users/macbook/Documents/UniLabCodes/Employee Management/obj/Debug/net9.0/Employee Management.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Documents/UniLabCodes/Employee Management/obj/Debug/net9.0/Employee Management.AssemblyInfoInputs.cache
+/Users/macbook/Documents/UniLabCodes/Employee Management/obj/Debug/net9.0/Employee Management.AssemblyInfo.cs
+/Users/macbook/Documents/UniLabCodes/Employee Management/obj/Debug/net9.0/Employee Management.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/UniLabCodes/Employee Management/obj/Debug/net9.0/Employee Management.sourcelink.json
+/Users/macbook/Documents/UniLabCodes/Employee Management/bin/Debug/net9.0/Employee Management
+/Users/macbook/Documents/UniLabCodes/Employee Management/bin/Debug/net9.0/Employee Management.deps.json
+/Users/macbook/Documents/UniLabCodes/Employee Management/bin/Debug/net9.0/Employee Management.runtimeconfig.json
+/Users/macbook/Documents/UniLabCodes/Employee Management/bin/Debug/net9.0/Employee Management.dll
+/Users/macbook/Documents/UniLabCodes/Employee Management/bin/Debug/net9.0/Employee Management.pdb
+/Users/macbook/Documents/UniLabCodes/Employee Management/obj/Debug/net9.0/Employee Management.dll
+/Users/macbook/Documents/UniLabCodes/Employee Management/obj/Debug/net9.0/refint/Employee Management.dll
+/Users/macbook/Documents/UniLabCodes/Employee Management/obj/Debug/net9.0/Employee Management.pdb
+/Users/macbook/Documents/UniLabCodes/Employee Management/obj/Debug/net9.0/Employee Management.genruntimeconfig.cache
+/Users/macbook/Documents/UniLabCodes/Employee Management/obj/Debug/net9.0/ref/Employee Management.dll
